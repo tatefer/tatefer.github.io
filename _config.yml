@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Fernando Cuevas's Blog
 locale:           en_US
-url:
+url:			  http://tatefer.github.io
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Fernando Cuevas
+  avatar: Fernando_bio_photo.jpg
+  bio: "An IT user that aims to learn a little bit of everything"
   email:
   disqus-shortname:
   twitter: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: #tatefer
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
